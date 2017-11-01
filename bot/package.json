@@ -1,0 +1,23 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Uma Simples demonstração npm",
+  "main": "bot.js",
+  "dependencies": {
+    "node-wit": "^4.1.0",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tekkay"
+  },
+  "keywords": [
+    "tekay"
+  ],
+  "author": "Wellington Coêlho",
+  "license": "ISC"
+}
