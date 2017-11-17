@@ -1,0 +1,4 @@
+criando bots para twiter usando a biblioteca tweepy
+
+
+https://www.youtube.com/watch?v=M7MqML2ZVOY

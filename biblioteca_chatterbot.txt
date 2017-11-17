@@ -1,0 +1,6 @@
+biblioteca básica para machine learning em Python.
+
+
+
+
+https://www.youtube.com/watch?v=VtF-Ucj4aAM
